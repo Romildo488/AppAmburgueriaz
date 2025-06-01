@@ -4,7 +4,8 @@
 
 ## 📱 Demonstração
 
-[Captura de tela 2025-06-01 141544](https://github.com/user-attachments/assets/e362e420-5a4d-41b9-9b95-9a7b81efd599)
+![Captura de tela 2025-06-01 141544](https://github.com/user-attachments/assets/8c8b64f4-3bce-40d0-944f-8e5a06d3d449)
+
  
 
 ## 🚀 Funcionalidades
