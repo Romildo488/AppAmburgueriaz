@@ -1,6 +1,6 @@
 # 🍔 hamburgueriaz
 
-**Hamburgueriaz** é um aplicativo completo para pedidos de hambúrgueres , desenvolvido para facilitar o processo de compra,e gerenciamento de pedidos, tudo com uma interface moderna e intuitiva.
+**Hamburgueriaz** é um aplicativo para pedidos de hambúrgueres , desenvolvido para facilitar o processo de compra,e gerenciamento de pedidos, tudo com uma interface moderna e intuitiva.
 
 ## 📱 Demonstração
 
